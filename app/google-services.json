@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "777900297716",
+    "project_id": "text-recognition-project-1",
+    "storage_bucket": "text-recognition-project-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777900297716:android:8825c503f99a2a07a47da1",
+        "android_client_info": {
+          "package_name": "com.vabrodex.opencvproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777900297716-0khst5gsu47sj8kf10rcc7tksoki4581.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGXL4IYP1uWPMheRIud4M3i90mCNEwfag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777900297716-0khst5gsu47sj8kf10rcc7tksoki4581.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777900297716:android:2f1aed866c5851b0a47da1",
+        "android_client_info": {
+          "package_name": "com.vabrodex.textreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777900297716-0khst5gsu47sj8kf10rcc7tksoki4581.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGXL4IYP1uWPMheRIud4M3i90mCNEwfag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777900297716-0khst5gsu47sj8kf10rcc7tksoki4581.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
